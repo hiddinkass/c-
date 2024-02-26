@@ -1,6 +1,7 @@
 #include <cstdio>
 int main()
 {
-	printf("한현준");
+	printf("한현준\n");
+	printf("hyunjune");
 	return 0;
 }
